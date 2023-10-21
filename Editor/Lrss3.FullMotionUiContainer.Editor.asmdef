@@ -1,0 +1,10 @@
+{
+    "name": "Lrss3.FullMotionUiContainer.Editor",
+    "references": [
+      "Lrss3.FullMotionUiContainer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
